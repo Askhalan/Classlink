@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405517528984",
+    "project_id": "claink-cloud",
+    "storage_bucket": "claink-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405517528984:android:9b6561cda72b1e7e3945ed",
+        "android_client_info": {
+          "package_name": "com.example.classlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvVQ90gCzFUgCjkqJw12c3oQjAg7dppt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
